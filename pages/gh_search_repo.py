@@ -68,14 +68,5 @@ def lookingRepo(DUMP):
         repo_found.click()
 
     
-
-    # if not repo_doesnt_found:
-    #     print('the repo already exists,go to trash...')
-    #     #repositories_found.click()
-    # elif(repo_doesnt_found):
-    #     print('the repo doesnt exists')
-    #     create_repo(DUMP)
-
-    #repositories_found_xpath.click()
     
 
